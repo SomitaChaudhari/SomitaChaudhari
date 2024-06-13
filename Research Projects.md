@@ -13,6 +13,6 @@ Feb 2020.
 - Student Travel Grant for presentation on Challenges of Economic, Social and Cultural Development in Coastal Disasters
 Management at Ocean Science Meeting, OSM2018 - Portland, Oregon, USA -11-16 Feb 2018.
 
-### Conference Participarticipation
+### Conference Participation
 
 ### Professional Membership
