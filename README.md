@@ -15,7 +15,7 @@ I am a United States based data-driven strategist with over 2 years of experienc
 - ***Databases***: SQL, MySQL, PostgreSQL, PL/SQL.
 - ***Libraries***: Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras.
 - ***Data Analysis Tools***: Tableau, Microsoft PowerBI, Microsoft Excel.
-- ***ML Algorithms***: Classification, Clustering, Regression, Random Forest, Apriori, - Time Series Forecasting, KNN, Decision Tree, XGBoost. 
+- ***ML Algorithms***: Classification, Clustering, Regression, Random Forest, Apriori, Time Series Forecasting, KNN, Decision Tree, XGBoost. 
 - ***DL Algorithms***: CNN, RNN, LSTM, BERT, Transformers.
 - ***Statistical Analysis***: Hypothesis Testing, A/B Testing, ANOVA, Descriptive/Predictive Analytics.
 - ***Development Tools***: AWS (SageMaker, Lambda, S3, EC2, ECS, S3, Glue, RDS, Redshift), Microsoft Azure, Google Cloud Platform, Hadoop, Spark, Hive.
