@@ -9,8 +9,7 @@
 - Lloyd V. Berkner Travel Fellowship, USA for presentation at AGU Fall meeting, New Orleans, LA, USA - 13-17 Dec 2021.
 - American Geophysical Union Travel Grant for presentation at AGU, Ocean Science Meeting, OSM 2020 - San Diego, USA - 16-21
 Feb 2020.
-- Travel Scholarship from The Columbia University for participation in Workshop on Correlated Extremes - New York, USA - May
-2019.
+- Travel Scholarship from The Columbia University for participation in Workshop on Correlated Extremes - New York, USA - May 2019.
 - Student Travel Grant for presentation on Challenges of Economic, Social and Cultural Development in Coastal Disasters
 Management at Ocean Science Meeting, OSM2018 - Portland, Oregon, USA -11-16 Feb 2018.
 
