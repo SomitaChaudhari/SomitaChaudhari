@@ -31,4 +31,22 @@ Management at Ocean Science Meeting, OSM2018 - Portland, Oregon, USA -11-16 Feb 
 - Presentation on *“Empowering Student and Academic Communities for Coastal Cleaning and Beach Sweeping Programs Along Arabian Sea Using Information and Communication Technologies”* - ***Ocean Science Meeting 2020***- San Diego, USA - 16-21 Feb 2020.
 - Poster Presentation on *“Application of Artificial Intelligence for Flooding Studies, Focusing on Tsunami and Extreme Water Related Disasters Along Coastal Region in the Asia- Pacific”* - Workshop on Correlated Extremes, ***The Columbia Initiative on Extreme Weather and Climate - Columbia University***, New York, USA - 29-31 May 2019.
 
-### Professional Membership
+### Professional Memberships
+- Student Member - **American Geophysical Union, (AGU)**,USA
+- Student Member - **International Association of Hydrological Science, (IAHS,)** U.K.
+- Member - **Swedish International Agricultural Network Initiative (SIANI)**, Stockholm Environment Institute, Stockholm, Sweden. 
+- Student Member - **The Oceanography Society, (TOS)**, USA. (Membership No.15842)
+- Member - **Open Network, Future Earth**, USA.
+- Member - **Children and Youth International, (CYI), United Nations Major Group on Children and Youth**, UN HQ, USA.
+- Member - **Development Studies Association (DSA)**, 23,Linton Road, Hove, U.K. (No.M38710)
+- Focal Point - **Major Groups (CSO) at United Nations Office at Geneva** (UNOG), Switzerland.
+- Associated Member - **Japan Geoscience Union (JpGU)**, Japan (No.040211)
+- Member - **The Association for the Sciences of Limnology and Oceanography (ASLO)**, USA.
+- Member - **7 th IMDC Review Committee**, Busan, Republic of Korea.
+- Alternate Focal Point - **Mountain Partnership, Food and Agriculture Organization, FAO**, Rome, Italy.
+- Member - **Research Data Alliance, (RDA)**, Oxford, U.K.
+- Planning Committee Member - **Ocean Science Meeting 2024**, New Orleans, USA.
+- Focal Point - **Major Groups (CSO) at United Nations**, New York, USA.
+- NGO Representative – **United Nations Office of Geneva**, Geneva, Switzerland.
+- NGO Representative – **United Nations Office of Vienna**, Vienna, Austria.
+
