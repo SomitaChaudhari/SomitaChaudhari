@@ -3,7 +3,7 @@ I am a United States based data-driven strategist with over 2 years of experienc
 
 ### Education
 - *Master of Science - Information Systems*, ***University of Maryland Baltimore County*** (Aug 2023 - May 2025)
-- *Summer School Student - ***Data Science* - Herti School of Data Science*** (June 2022 - July 2022)
+- *Summer School Student - ***Data Science* - Hertie School of Data Science*** (June 2022 - July 2022)
 - *Summer School Studen* - ***Turin School of Regulation - Regulation of Local Public Services*** (2021)
 - *Bachelor of Engineering - Information Technology*, ***University of Mumbai*** (Aug 2019 - May 2023)
 
