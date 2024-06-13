@@ -7,7 +7,7 @@ I am a United States based data-driven strategist with over 2 years of experienc
 - *Summer School Studen* - ***Turin School of Regulation - Regulation of Local Public Services*** (2021)
 - *Bachelor of Engineering - Information Technology*, ***University of Mumbai*** (Aug 2019 - May 2023)
 
-###Experience
+### Experience
 [View my Experience](https://github.com/SomitaChaudhari/SomitaChaudhari/blob/main/Experience.md)
 
 ### Skills 
