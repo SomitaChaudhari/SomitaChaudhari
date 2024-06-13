@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 I am a data-driven with over 2 years of experience working with data to drive insights and solutions. Passionate about translating numbers and patterns into actionable strategies through compelling narratives. Excited to apply this diverse data skillset to new analytics challenges that deliver value. I am currently pursuing a Master of Science degree in Information Systems from the University of Maryland Baltimore County and a Bachelor of Engineer degree in Information Technology from the University of Mumbai. My expertise spans across data analysis, machine learning, deep learning, and statistical analysis, backed by hands-on experience with various programming languages and development tools.
 
 
