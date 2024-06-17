@@ -25,3 +25,4 @@ I am a United States based data-driven strategist with over 2 years of experienc
 [View](https://github.com/SomitaChaudhari/SomitaChaudhari/blob/main/Research%20Projects.md)
 
 
+![SomitaChaudhari's Stats](https://github-readme-stats.vercel.app/api?username=SomitaChaudhari&theme=dark&show_icons=true&hide_border=true&count_private=true)  
