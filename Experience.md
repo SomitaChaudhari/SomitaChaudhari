@@ -2,14 +2,14 @@
 #### *Data Science Intern* - Two Star
 - Architected a ML based demand forecasting model (ARIMA) , integrated Tableau visualizations for jewellery sales, and conducted data profiling with Python (Pandas, NumPy, & SciPy), achieving a 15% reduction in MAPE.
 - Developed Matplotlib and seaborn dashboards for laboratory data analysis, achieving 25% higher anamoly detection accuracy with SciPy and boosting laboratory efficiency by 20%.
-- Streamlined HR and Admin data management with Microsoft Power BI and R (dplyr & ggplot2), achieving 10% better candidate selection accuracy and implemented Decision Trees for candidate prediction, reducing MSE by 20% on a dataset of 10k job applications.
+- Optimized HR and Admin data management with Microsoft Power BI and PostgreSQL, achieving 10% better candidate selection accuracy and implemented Decision Trees for candidate prediction, reducing MSE by 20% on a dataset of 10,000 job applications.
 
 #### *Data Analyst Intern* -  Shri Sai Eye Hospital
-- Engineered an automated SQL-based data pipeline at Shri Sai Eye Hospital to extract, clean, and analyze a dataset of 150k+ patient records, identifying trends and anomalies for medical analysis while optimizing operational efficiency and resource allocation.
+- Engineered an automated SQL-based data pipeline at Shri Sai Eye Hospital to extract, clean, and analyze a dataset of 150,000 patient records, identifying trends and anomalies for medical analysis while optimizing operational efficiency and resource allocation.
 - Employed Python to create Tableau dashboards, improving data interpretability by 20% for healthcare resource allocation and saving $50,000 annually.
 
 #### *Data Analyst Intern -  Institute for Sustainable Development and Research (ISDR)
-- Leveraged Python to analyze a 4,000-record tidal climate database linked to the 2004 Indian Ocean Tsunami, performing statistical correlation analysis between sensor readings and tsunami propagation patterns, and creating visualizations with Matplotlib and Seaborn to illustrate trends and relationships.
+- Analyzed a 40,000-record tidal climate database using Python linked to the 2004 Indian Ocean Tsunami, performing statistical correlation analysis between sensor readings and tsunami propagation patterns, and creating visualizations with Matplotlib and Seaborn to illustrate trends and relationships.
 - Improved tsunami prediction accuracy by 12% using Random Forest and XGBoost models (AUC-ROC: 0.92 to 0.97; MAE: 0.15 to 0.11), enhancing coastal disaster preparedness and for mitigation strategies.
 
 ### 🎯 Workshops & Training
