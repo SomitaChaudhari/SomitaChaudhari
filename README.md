@@ -15,7 +15,7 @@
 ### 🎯  Skills 
 - ***Languages***: Python, R, HTML, CSS, JavaScript.
 - ***Databases***: SQL, MySQL, PostgreSQL, PL/SQL.
-- ***Libraries***: Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras.
+- ***Libraries***:  Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV, Pillow, statsmodels, spaCy.
 - ***Data Analysis Tools***: Tableau, Microsoft PowerBI, Microsoft Excel.
 - ***ML Algorithms***: Classification, Clustering, Regression, Random Forest, Apriori, Time Series Forecasting, KNN, Decision Tree, XGBoost. 
 - ***DL Algorithms***: CNN, RNN, LSTM, BERT, Transformers.
