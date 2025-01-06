@@ -12,8 +12,8 @@
 #### *Student Representative* - American Geophysical Union (AGU Council) (Dec 2022 - Feb 2024)
 #### *Student Representative* - OSM 2024* - The Oceanography Society (Dec 2022 - Feb 2024)
 
-### 🎯 Workshops & Training
-#### *Data Scientist* pyRATES: Python and R Analysis of Time SerieS - LinkedEarth (*Jun 2024 - Oct 2024*)
+### 🎯 Research Projects & Workshop/Training
+#### *Data Scientist Research Participant* -  pyRATES: Python and R Analysis of Time SerieS - LinkedEarth (*Jun 2024 - Oct 2024*)
 - Developed a hybrid multivariate time series forecasting model integrating ARIMA, LSTM, and Transformer architectures using Python (TensorFlow,Statsmodels) to predict tidal dynamics across four Hawaiian stations, achieving RMSE < 0.4 ft and MAE < 0.32 ft.
 - Optimized data preprocessing pipeline using Pandas and SciPy to handle missing values, scale attributes with MinMaxScaler, and extract seasonal trends through Fourier decomposition, improving model training efficiency by 30%.
 - Applied advanced modeling techniques, including ARIMA for linear trend and seasonality, LSTM for capturing complex non-linear patterns, and Fourier + SARIMA for cyclical and short-term fluctuations, enhancing forecasting accuracy by 25%.
@@ -23,7 +23,7 @@
 - Implemented model evaluation metrics, including RMSE and MAE, to benchmark performance across stations (Hilo: RMSE 0.33 ft, Honolulu: RMSE 0.31 ft), driving precision in long-term tidal predictions for disaster mitigation.
 - Implemented scalable and reusable modeling pipelines, enabling efficient adaptation for other coastal regions, enhancing the project’s applicability for large-scale disaster risk assessments and climate impact studies.
   
-#### * Data Analyst* GO-BGC/BGC Argo Float Data Workshop - MBARI WHOI, UWash (*Aug 2023*) 
+#### *Data Analyst Research Participant* GO-BGC/BGC Argo Float Data Workshop - MBARI WHOI, UWash (*Aug 2023*) 
 - Extracted float data using Python to map Hurricane Sam's float trajectory alongside hurricane tracks. 
 - Created time series of temperature, chlorophyll-a (Chla), and particulate backscattering coefficient (bbp).
 - Developed time series of sea surface temperature (SST), mixed layer depth (MLD), surface Chla and bbp, and depth-integrated Chla and bbp and applied despiking techniques to Chla and bbp data and subsetted the time series.
