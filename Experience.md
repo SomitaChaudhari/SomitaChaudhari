@@ -7,6 +7,11 @@
 
 #### *Data Analyst Intern* -  Institute for Sustainable Development and Research (ISDR) (Nov 2021 - Jul 2022)
 
+### 🌟 Leadership Positions
+
+#### *Student Representative* - American Geophysical Union (AGU Council) (Dec 2022 - Feb 2024)
+#### *Student Representative* - OSM 2024* - The Oceanography Society (Dec 2022 - Feb 2024)
+
 ### 🎯 Workshops & Training
 #### *Data Scientist* pyRATES: Python and R Analysis of Time SerieS - LinkedEarth (*Jun 2024 - Oct 2024*)
 - Developed a hybrid multivariate time series forecasting model integrating ARIMA, LSTM, and Transformer architectures using Python (TensorFlow,Statsmodels) to predict tidal dynamics across four Hawaiian stations, achieving RMSE < 0.4 ft and MAE < 0.32 ft.
