@@ -1,11 +1,11 @@
 ### 💻 Work Experience 
-#### * Data Analyst (Graduate Research Assistant)* - University of Mayaland Baltimore County (Aug 2024 - May 2025)
+#### *Data Analyst (Graduate Research Assistant)* - University of Mayaland Baltimore County (Aug 2024 - May 2025)
 
 #### *Data Science Intern* - Two Star (Nov 2022 - Aug 2023)
 
 #### *Data Analyst Intern* -  Shri Sai Eye Hospital (Aug 2022 - Oct 2022) 
 
-#### *Data Analyst Intern -  Institute for Sustainable Development and Research (ISDR) (Nov 2021 - Jul 2022)
+#### *Data Analyst Intern* -  Institute for Sustainable Development and Research (ISDR) (Nov 2021 - Jul 2022)
 
 ### 🎯 Workshops & Training
 #### *pyRATES: Python and R Analysis of Time SerieS* - LinkedEarth (*Jun 2024 - Oct 2024*)
