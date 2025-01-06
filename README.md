@@ -15,13 +15,18 @@
 ### 🎯  Skills 
 - ***Languages***: Python, R, HTML, CSS, JavaScript.
 - ***Databases***: SQL, MySQL, PostgreSQL, PL/SQL.
-- ***Libraries***:  Pandas, NumPy, Matplotlib, SciPy, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV, Pillow, statsmodels, spaCy.
+- ***Libraries***: Pandas, NumPy, Matplotlib, SciPy, Seaborn, Scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV, Pillow, Statsmodels, Hugging Face Transformers.
 - ***Data Analysis Tools***: Tableau, Microsoft PowerBI, Microsoft Excel.
-- ***ML Algorithms***: Classification, Clustering, Regression, Random Forest, Gradient Boosting, Logistic Regression, ARIMAX, Time Series Forecasting, KNN, Decision Tree, XGBoost, Apriori.
+- ***ML Algorithms***: Classification, Clustering, Regression, Random Forest, Apriori, Time Series Forecasting, KNN, Decision Tree, XGBoost.
 - ***DL Algorithms***: CNN, RNN, LSTM, BERT, Transformers.
+- ***Generative AI***: Large Language Models (LLM).
+- ***Computer Vision***: Image Classification, Image Segmentation, Feature Extraction, Optical Character Recognition (OCR).
 - ***Statistical Analysis***: Hypothesis Testing, A/B Testing, ANOVA, Descriptive/Predictive Analytics.
-- ***Development Tools***: AWS (SageMaker, Lambda, S3, EC2, ECS, S3, Glue, RDS, Redshift), Microsoft Azure, Google Cloud Platform, Hadoop, Spark, Hive.
+- ***Development Tools***: AWS (SageMaker, Lambda, S3, EC2, ECS, Glue, RDS, Redshift), Microsoft Azure, Google Cloud Platform, Hadoop, Spark, Hive.
 - ***OCEANS***: argopy, cmocean, xarray, pyleoclim.
+- ***Web Scraping***: Beautiful Soup, OxyLabs.
+
+
 
 ### 🏆 Awards, Research Projects, Conference Participation & Professional Memberships 
 [View](https://github.com/SomitaChaudhari/SomitaChaudhari/blob/main/Research%20Projects.md)
