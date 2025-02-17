@@ -9,7 +9,7 @@
 
 ### 🌟 Leadership Positions
 
-#### *Student Representative* - American Geophysical Union (AGU Council) (Dec 2022 - Feb 2024)
+#### *Student Representative (Elect) * - American Geophysical Union (AGU Council) (Dec 2024 - Present)
 #### *Student Representative* - OSM 2024* - The Oceanography Society (Dec 2022 - Feb 2024)
 
 ### 🎯 Research Projects & Workshop/Training
