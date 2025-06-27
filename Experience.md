@@ -1,7 +1,7 @@
 ### 💻 Work Experience 
 #### *Graduate Assistant* - University of Mayaland Baltimore County (Aug 2024 - May 2025)
 
-#### *Data Science Intern* - Two Star (Nov 2022 - Aug 2023)
+#### *Data Science Intern* - Two Star (Nov 2022 - Jul 2023)
 
 #### *Data Analyst Intern* -  Shri Sai Eye Hospital (Jun 2022 - Sep 2022) 
 
