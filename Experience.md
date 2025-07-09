@@ -1,5 +1,5 @@
 ### 💻 Work Experience 
-#### *Data Scientist* - Valhalla Data Systems, Inc (Aug 2024 - May 2025)
+#### *Data Scientist* - Valhalla Data Systems, Inc (Jul 2025 - Present)
 
 #### *Graduate Assistant (Data Analyst)* - University of Mayaland Baltimore County (Aug 2024 - May 2025)
 
