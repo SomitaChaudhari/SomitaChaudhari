@@ -1,9 +1,11 @@
 ### 💻 Work Experience 
-#### *Graduate Assistant* - University of Mayaland Baltimore County (Aug 2024 - May 2025)
+#### *Data Scientist* - Valhalla Data Systems, Inc (Aug 2024 - May 2025)
 
-#### *Data Science Intern* - Two Star (Nov 2022 - Aug 5, 2023)
+#### *Graduate Assistant (Data Analyst)* - University of Mayaland Baltimore County (Aug 2024 - May 2025)
 
-#### *Data Analyst Intern* -  Shri Sai Eye Hospital (Jun 2022 - Sep 2022) 
+#### *Data Scientist* - Two Star (Nov 2022 - Aug 5, 2023)
+
+#### *Data Analyst* -  Shri Sai Eye Hospital (Jun 2022 - Sep 2022) 
 
 #### *Data Analyst Intern* -  Institute for Sustainable Development and Research (ISDR) (Nov 2021 - Apr 2022)
 
