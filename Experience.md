@@ -7,7 +7,7 @@
 
 #### *Data Analyst* -  Shri Sai Eye Hospital (Jun 2022 - Sep 2022) 
 
-#### *Data Analyst Intern* -  Institute for Sustainable Development and Research (ISDR) (Nov 2021 - Apr 2022)
+#### *Data Analyst* -  Institute for Sustainable Development and Research (ISDR) (Dec 2020 - Apr 2022)
 
 ### 🌟 Leadership Positions
 
