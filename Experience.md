@@ -1,5 +1,5 @@
 ### 💻 Work Experience 
-#### *Graduate Assistant (Data Analyst)* - University of Mayaland Baltimore County (Aug 2024 - May 2025)
+#### * Data Analyst* - University of Mayaland Baltimore County (Aug 2024 - May 2025)
 
 #### *Data Scientist* - Two Star (Nov 2022 - Aug 5, 2023)
 
