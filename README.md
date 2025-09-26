@@ -1,12 +1,17 @@
 
 <img src="ocean.gif" width="900" height="150">
 
-👋 Hello! I am a United States based results-driven Data Scientist with over 2 years of experience 
-in statistical analysis, machine learning, and data visualization. Proficient in Python, R, and PySpark, with a proven track record of designing and deploying scalable data pipelines, predictive models, and interactive dashboards. Adept at leveraging cutting-edge technologies such as Generative AI, Large Language Models (LLMs), and deep learning frameworks to solve complex business challenges. Demonstrated success in optimizing inventory management, enhancing operational efficiency, and enabling data-driven decision-making across industries including retail, healthcare, and sustainability. Skilled in cloud platforms like AWS and Microsoft Azure, with hands-on experience in Tableau, Power BI, and advanced SQL techniques. Passionate about transforming data into actionable insights to drive innovation and deliver measurable value.
+👋 Hello! I am a United States based results-driven Data Scientist with over 3+ years of experience 
 
-Along with having 6 years of research experience in the Application of Data Science, Machine Learning & AI in the Oceanography & Earth Sciences sphere. Skilled in Predictive modelling, Time Series Forecasting for Disaster Recovery, Mitigation & Resource Allocation of Disaster Management.
+Data Scientist with 3+ years of experience turning complex data into business impact across supply chain, e-commerce, healthcare, and
+climate sectors. Proven record in demand forecasting, predictive modeling, and KPI dashboards that have cut costs, optimized inventory,
+and delivered $2M+ revenue impact and $300K+ cost savings. Skilled in Python, SQL, Tableau, Power BI, AWS, and Azure, with
+expertise in building production pipelines and governance frameworks. Adept at collaborating with executives and cross-functional
+teams to drive data-driven strategy at scale.
 
-Excited to apply this diverse data skillset to new analytics challenges that deliver value. My expertise spans across data analysis, machine learning, deep learning, and statistical analysis, backed by hands-on experience with various programming languages and development tools.
+Along with having 7 years of research experience in the Application of Data Science, Machine Learning & AI in the Oceanography & Earth Sciences sphere. Skilled in Predictive modelling, Time Series Forecasting for Disaster Recovery, Mitigation & Resource Allocation of Disaster Management.
+
+
 
  ### 🏫 Education
 - *Master of Science - Information Systems*, ***University of Maryland Baltimore County*** (Aug 2023 - May 2025)
