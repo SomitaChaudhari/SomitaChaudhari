@@ -1,11 +1,3 @@
-### 💻 Work Experience 
-#### * Data Analyst* - University of Mayaland Baltimore County (Aug 2024 - May 2025)
-
-#### *Data Scientist* - Two Star (Nov 2022 - Aug 5, 2023)
-
-#### *Data Analyst* -  Shri Sai Eye Hospital (Jun 2022 - Sep 2022) 
-
-#### *Data Analyst* -  Institute for Sustainable Development and Research (ISDR) (Dec 2020 - Apr 2022)
 
 ### 🌟 Leadership Positions
 
