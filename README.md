@@ -3,14 +3,13 @@
 
 👋 Hello! I am a United States based results-driven Data Scientist with over 3+ years of experience 
 
-Data Scientist with 3+ years of experience turning complex data into business impact across supply chain, e-commerce, healthcare, and
-climate sectors. Proven record in demand forecasting, predictive modeling, and KPI dashboards that have cut costs, optimized inventory,
-and delivered $2M+ revenue impact and $300K+ cost savings. Skilled in Python, SQL, Tableau, Power BI, AWS, and Azure, with
-expertise in building production pipelines and governance frameworks. Adept at collaborating with executives and cross-functional
-teams to drive data-driven strategy at scale.
-
-Along with having 7 years of research experience in the Application of Data Science, Machine Learning & AI in the Oceanography & Earth Sciences sphere. Skilled in Predictive modelling, Time Series Forecasting for Disaster Recovery, Mitigation & Resource Allocation of Disaster Management.
-
+Data Scientist and Data Analyst with 4+ years of experience building end-to-end production-grade machine learning and deep learning solutions, automated
+and governed ETL pipelines, and executive-ready dashboards across e-commerce, supply chain, and healthcare. Specializing in demand forecasting,
+inventory optimization, customer segmentation, churn prediction, and pricing and marketing performance analytics to increase revenue, reduce operational
+losses, and strengthen customer retention and decision-making. Proficient in Python, PySpark, SQL (PostgreSQL, MySQL, Spark SQL), AWS, and Tableau,
+with demonstrated expertise in MLOps, time series forecasting, deep learning, NLP, and GenAI. Brings 7 years of research experience applying data
+analytics, ML, and AI to climate, pharmaceutical, and healthcare problems, with 23 publications on risk mitigation, risk management, and sustainability,
+and 14 awards and grants for impact and innovation.
 
 
  ### 🏫 Education
