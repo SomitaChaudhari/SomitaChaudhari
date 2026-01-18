@@ -12,7 +12,7 @@ analytics, ML, and AI to climate, pharmaceutical, and healthcare problems, with 
 and 14 awards and grants for impact and innovation.
 
 
- ### 🏫 Education
+ ### 🏫 Education & Training 
 - *Master of Science - Information Systems*, ***University of Maryland Baltimore County*** (Aug 2023 - May 2025)
 - *Summer School Student - ***Data Science* - Hertie School of Data Science*** (June 2022 - July 2022)
 - *Summer School Student* - ***Turin School of Regulation - Regulation of Local Public Services*** (2021)
