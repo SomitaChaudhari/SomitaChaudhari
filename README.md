@@ -1,7 +1,7 @@
 
 <img src="ocean.gif" width="900" height="150">
 
-👋 Hello! I am a United States based results-driven Data Scientist with over 3+ years of experience 
+👋 Hello!
 
 Data Scientist and Data Analyst with 4+ years of experience building end-to-end production-grade machine learning and deep learning solutions, automated
 and governed ETL pipelines, and executive-ready dashboards across e-commerce, supply chain, and healthcare. Specializing in demand forecasting,
