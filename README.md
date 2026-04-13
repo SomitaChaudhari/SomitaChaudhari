@@ -51,5 +51,3 @@ Web Scraping (Beautiful Soup, OxyLabs), Ocean Data Tools (argopy, xarray, pyleoc
 ### 🏆 Awards, Research Projects, Conference Participation & Professional Memberships 
 [View](https://github.com/SomitaChaudhari/SomitaChaudhari/blob/main/Research%20Projects.md)
 
-
-![SomitaChaudhari's Stats](https://github-readme-stats.vercel.app/api?username=SomitaChaudhari&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
