@@ -85,18 +85,13 @@ United States
 
 ---
 
-## 🏆 Awards
+## 🏆 Highlights: Awards
 
 - GSA Professional Development Grant, UMBC — IEEE ISEC 2025, Princeton, USA, Mar 15, 2025  
-- NASA-USRA Travel Grant — AGU Chapman Conference, Melbourne, Australia, Feb 14–22, 2025  
-- American Geophysical Union Travel Grant — WaterSciCon 2024, St. Paul, Minnesota, USA  
-- National Science Foundation Travel Grant — PyRates Workshop, University of Southern California, USA  
-- American Geophysical Union Travel Grant — Chapman Conference on Remote Sensing, Honolulu, USA  
-- National Science Foundation Travel Grant — BGC Argo Float Data Workshop, University of Massachusetts Boston, USA  
+- NASA-USRA Travel Grant
+- American Geophysical Union Travel Grant (x 4) 
 - Volkswagen Foundation Travel Grant — Climate Risks Conference, Germany, Jun 2023  
-- American Geophysical Union Student Travel Grant — AGU Fall Meeting 2022, Chicago, USA  
 - Young Scientist Travel Award — UN Environment & Gulf and Caribbean Fisheries Institute, IMDC 2022, Korea  
 - Lloyd V. Berkner Travel Fellowship — AGU Fall Meeting 2021, New Orleans, USA  
-- American Geophysical Union Travel Grant — Ocean Sciences Meeting 2020, San Diego, USA  
 - Columbia University Travel Scholarship — Workshop on Correlated Extremes, New York, USA, May 2019  
-- Student Travel Grant — Ocean Sciences Meeting 2018, Portland, USA  
+
