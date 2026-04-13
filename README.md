@@ -20,28 +20,36 @@ and 14 awards and grants for impact and innovation.
 - *Summer School Student* - ***Turin School of Regulation - Regulation of Local Public Services*** 
 - *Bachelor of Engineering - Information Technology*, ***University of Mumbai***
 
-### 🏢 Experience
-[View my Experience](https://github.com/SomitaChaudhari/SomitaChaudhari/blob/main/Experience.md)
 
-### 🎯  Skills 
-- ***Languages***: Python, R, HTML, CSS, JavaScript.
-- ***Databases***: SQL, MySQL, PostgreSQL, PL/SQL.
-- ***Libraries***: Pandas, NumPy, Matplotlib, SciPy, Seaborn, Scikit-learn, PyTorch, TensorFlow, Keras, NLTK, OpenCV, Pillow, Statsmodels, Hugging Face Transformers.
-- ***Data Analysis Tools***: Tableau, Microsoft PowerBI, Microsoft Excel.
-- ***ML Algorithms***: Classification, Clustering, Regression, Random Forest, Apriori, Time Series Forecasting, KNN, Decision Tree, XGBoost.
-- ***DL Algorithms***: CNN, RNN, LSTM, BERT, Transformers.
-- ***Generative AI***: Large Language Models (LLM).
-- ***Computer Vision***: Image Classification, Image Segmentation, Feature Extraction, Optical Character Recognition (OCR).
-- ***Statistical Analysis***: Hypothesis Testing, A/B Testing, ANOVA, Descriptive/Predictive Analytics.
-- ***Development Tools***: AWS (SageMaker, Lambda, S3, EC2, ECS, Glue, RDS, Redshift), Microsoft Azure, Google Cloud Platform, Hadoop, Spark, Hive.
-- ***OCEANS***: argopy, cmocean, xarray, pyleoclim.
-- ***Web Scraping***: Beautiful Soup, OxyLabs.
+## 🎯 Skills
 
+**Languages & Databases:**  
+Python, PySpark, R, SQL (MySQL, PostgreSQL, Spark SQL), PL/SQL, HTML, CSS, JavaScript  
+
+**Data Visualization:**  
+Tableau, Power BI, Microsoft Excel  
+
+**Libraries & Frameworks:**  
+NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, OpenCV, Hugging Face Transformers  
+
+**Machine Learning & Deep Learning:**  
+Classification, Clustering, Regression, Time Series Forecasting, Random Forest, Decision Tree, KNN, XGBoost, LightGBM, CNN, LSTM, BERT, Transformers, NLP  
+
+**Generative AI:**  
+Large Language Models (LLMs), Prompt Engineering  
+
+**Statistical Analysis:**  
+Hypothesis Testing, A/B Testing, ANOVA, Descriptive & Predictive Analytics  
+
+**Cloud & Tools:**  
+AWS, Azure, GCP, Databricks, Hadoop, Spark, Hive, Git, GitHub  
+
+**Other:**  
+Web Scraping (Beautiful Soup, OxyLabs), Ocean Data Tools (argopy, xarray, pyleoclim)  
 
 
 ### 🏆 Awards, Research Projects, Conference Participation & Professional Memberships 
 [View](https://github.com/SomitaChaudhari/SomitaChaudhari/blob/main/Research%20Projects.md)
-
 
 
 ![SomitaChaudhari's Stats](https://github-readme-stats.vercel.app/api?username=SomitaChaudhari&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
