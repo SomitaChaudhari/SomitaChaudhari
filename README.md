@@ -13,10 +13,10 @@ and 14 awards and grants for impact and innovation.
 
 
  ### 🏫 Education & Training 
-- *Master of Science - Information Systems*, ***University of Maryland Baltimore County*** (Aug 2023 - May 2025)
-- *Summer School Student - ***Data Science* - Hertie School of Data Science*** (June 2022 - July 2022)
-- *Summer School Student* - ***Turin School of Regulation - Regulation of Local Public Services*** (2021)
-- *Bachelor of Engineering - Information Technology*, ***University of Mumbai*** (Aug 2019 - May 2023)
+- *Master of Science - Information Systems*, ***University of Maryland Baltimore County*** 
+- *Summer School Student - ***Data Science* - Hertie School of Data Science*** 
+- *Summer School Student* - ***Turin School of Regulation - Regulation of Local Public Services*** 
+- *Bachelor of Engineering - Information Technology*, ***University of Mumbai***
 
 ### 🏢 Experience
 [View my Experience](https://github.com/SomitaChaudhari/SomitaChaudhari/blob/main/Experience.md)
