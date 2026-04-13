@@ -42,7 +42,7 @@ Large Language Models (LLMs), Prompt Engineering
 Hypothesis Testing, A/B Testing, ANOVA, Descriptive & Predictive Analytics  
 
 **Cloud & Tools:**  
-AWS, Azure, GCP, Databricks, Hadoop, Spark, Hive, Git, GitHub  
+AWS, Databricks, Hadoop, Spark, Hive, Git, GitHub  
 
 **Other:**  
 Web Scraping (Beautiful Soup, OxyLabs), Ocean Data Tools (argopy, xarray, pyleoclim)  
